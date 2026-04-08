@@ -1,6 +1,7 @@
 import { Routes, Route, Link } from "react-router-dom";
 import { careers } from "./data";
 import RegisterPage from "./RegisterPage";
+import Dashboard from "./Dashboard";
 import LoginPage from "./LoginPage";
 import CareerPage from "./CareerPage";
 import ReviewPage from "./ReviewPage";
