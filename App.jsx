@@ -488,6 +488,7 @@ function App() {
       <Route path="/register" element={<RegisterPage />} />
       <Route path="/login" element={<LoginPage />} />
       <Route path="/dashboard" element={<Home />} />
+       <Route path="/dashboard" element={<Dashboard />} />
       <Route path="/career/:id" element={<CareerPage />} />
       <Route path="/review" element={<ReviewPage />} />
     </Routes>
